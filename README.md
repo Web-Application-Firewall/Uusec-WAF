@@ -1,4 +1,3 @@
-# Uusec-WAF
 # UUSEC WAF — Configuración y evaluación
 
 > Basado en la documentación oficial: https://github.com/Safe3/uusec-waf
