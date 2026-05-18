@@ -46,7 +46,7 @@ Una vez se accede se tiene una interfaz similar a la presentada a continuación:
 
 ![Interfaz](images/interfaz.jpg)
 
-Asimismo, una vez se accede a la interfaz de configuración, en el panel de la izquierda, existen diferentes opciones para la personalización de su configuración, por ejemplo, en la sección de *load balancing* se indica el puerto y la dirección ip correspondientes al servidor web para configurar Uusec como reverse proxy.
+Asimismo, una vez se accede a la interfaz de configuración, en el panel de la izquierda, existen diferentes opciones para la personalización de su configuración, por ejemplo, se encuentra la configuración del sitio, particularmente en la sección de *load balancing* se indica el puerto y la dirección ip correspondientes al servidor web para configurar Uusec como reverse proxy. Y se selecciona el conjunto de reglas utilizadas de base.
 
 ![Configuración](images/configuración.jpg)
 
