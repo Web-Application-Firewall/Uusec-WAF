@@ -42,15 +42,19 @@ Credenciales por defecto:
 
 > Se recomienda cambiar la contraseña por defecto tras el primer acceso.
 
+Una vez se accede se tiene una interfaz similar a la presentada a continuación:
+
 ![Interfaz](images/interfaz.jpg)
 
 Asimismo, una vez se accede a la interfaz de configuración, en el panel de la izquierda, existen diferentes opciones para la personalización de su configuración, por ejemplo, en la sección de *load balancing* se indica el puerto y la dirección ip correspondientes al servidor web para configurar Uusec como reverse proxy.
 
 ![Configuración](images/configuración.jpg)
 
-Por otro lado, en el panel de la derecha, también es posible acceder a las distintas reglas con las que cuenta el WAF por defecto, asi como también se indica su nivel de configuración
+Por otro lado, en el panel de la izquierda, también es posible acceder a las distintas reglas con las que cuenta el WAF por defecto, asi como también se indica su nivel de amenaza. Este nivel de configuración es personalizable y adaptable.
 
 ![Reglas](images/reglas.jpg)
+
+A continuación se describe de manera más detallada los distintos modos de configuración de UusecWaf.
 
 ---
 
