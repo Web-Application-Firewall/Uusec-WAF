@@ -48,8 +48,9 @@ Una vez se accede se tiene una interfaz similar a la presentada a continuación:
 
 Asimismo, una vez se accede a la interfaz de configuración, en el panel de la izquierda, existen diferentes opciones para la personalización de su configuración, por ejemplo, se encuentra la configuración del sitio, particularmente en la sección de *load balancing* se indica el puerto y la dirección ip correspondientes al servidor web para configurar Uusec como reverse proxy. Y se selecciona el conjunto de reglas utilizadas de base.
 
-![Configuración](images/configuración.jpg)
-
+<p align="center">
+  ![Configuración](images/configuración.jpg)
+</p>
 Por otro lado, en el panel de la izquierda, también es posible acceder a las distintas reglas con las que cuenta el WAF por defecto, asi como también se indica su nivel de amenaza. Este nivel de configuración es personalizable y adaptable.
 
 ![Reglas](images/reglas.jpg)
